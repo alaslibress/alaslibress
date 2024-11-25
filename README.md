@@ -11,8 +11,7 @@
    ➽ I’ll stop here—it’s starting to sound like a shopping list 🛒. What do you need to know?😁 Check below!👀⬇️</p>
 
 <h2 align="center">⭐Contact to me⭐</h2>
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pozo-pérez-583168331)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandropozope@gmail.com)
+
 
 <h2 align="center"><img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Technical skills <img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h2>
 <h3 align="center">Programming languajes</h3>
@@ -24,13 +23,13 @@
 <h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql, mongodb,postgres,sqlite" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
     </a>
   </p>
   <h3 align="center">Development environments</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=idea, eclipse, vscode" />
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
     </a>
   </p>
   <h3 align="center">Version control</h3>
