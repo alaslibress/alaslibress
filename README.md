@@ -1,16 +1,51 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**alaslibress/alaslibress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hello! , I'm Alejandro Pozo </b><img width="38px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a junior programmer who basically lives to fix problems you didn’t even know you had...</h3>
 
-Here are some ideas to get you started:
+<h2 align="center">⭐About me⭐</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>➽ I’m currently a Cross-Platform Application Developer.🤔 <br>
+   ➽ I’m looking for challenging and interesting projects where I can make a meaningful contribution.☝🤓 <br>
+   ➽ I enjoy Back-end development, especially working with databases.📚 <br>
+   ➽ I’ll stop here—it’s starting to sound like a shopping list 🛒. What do you need to know?😁 Check below!👀⬇️</p>
+
+<h2 align="center">⭐Contact to me⭐</h2>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pozo-pérez-583168331)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandropozope@gmail.com)
+
+<h2 align="center"><img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Technical skills <img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h2>
+<h3 align="center">Programming languajes</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,js,kotlin" />
+    </a>
+  </p>
+<h3 align="center">Databases</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql, mongodb,postgres,sqlite" />
+    </a>
+  </p>
+  <h3 align="center">Development environments</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=idea, eclipse, vscode" />
+    </a>
+  </p>
+  <h3 align="center">Version control</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github" />
+    </a>
+  </p>
+  <h3 align="center">Web Technologies</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    </a>
+  </p>
+
+  <h2 align="center"> 🎉Thanks for visiting! 🎉</h2>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
