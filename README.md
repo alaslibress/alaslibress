@@ -11,8 +11,14 @@
    ➽ I’ll stop here—it’s starting to sound like a shopping list 🛒. What do you need to know?😁 Check below!👀⬇️</p>
 
 <h2 align="center">⭐Contact to me⭐</h2>
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandro-pozo-pérez-583168331)
-[![My gmail](https://skillicons.dev/icons?i=gmail)](mailto:alejandropozope@gmail.com)
+<p align="center">
+    <a href="mailto:alejandropozope@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/alejandro-pozo-pérez-583168331">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </p>
 
 <h2 align="center"><img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Technical skills <img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h2>
 <h3 align="center">Programming languajes</h3>
