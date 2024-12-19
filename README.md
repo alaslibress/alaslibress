@@ -24,7 +24,7 @@
 <h3 align="center">Programming languajes</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,kotlin" />
+      <img src="https://skillicons.dev/icons?i=java,js,kotlin,python" />
     </a>
   </p>
 <h3 align="center">Databases</h3>
@@ -36,7 +36,7 @@
   <h3 align="center">Development environments</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker" />
     </a>
   </p>
   <h3 align="center">Version control</h3>
@@ -48,7 +48,7 @@
   <h3 align="center">Web Technologies</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" />
     </a>
   </p>
 
