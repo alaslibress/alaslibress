@@ -24,7 +24,7 @@
 <h3 align="center">Programming languajes</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,react,java,js,ts,cs" />
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" />
     </a>
   </p>
 <h3 align="center">Databases</h3>
@@ -54,7 +54,7 @@
   <h3 align="center">Others Technologies</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,aws,unity,gradle,maven" />
+      <img src="https://skillicons.dev/icons?i=react,docker,aws,unity,gradle,maven" />
     </a>
   </p>
 
