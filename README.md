@@ -30,7 +30,7 @@
 <h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,spring,postman" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,spring,postman,supabase" />
     </a>
   </p>
   <h3 align="center">Development environments</h3>
@@ -48,13 +48,13 @@
   <h3 align="center">Web Technologies</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,aws" />
     </a>
   </p>
   <h3 align="center">Others Technologies</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,docker,aws,unity,gradle,maven" />
+      <img src="https://skillicons.dev/icons?i=react,docker,unity,gradle,maven,nodejs" />
     </a>
   </p>
 
