@@ -1,6 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://alaslibress.github.io/gh-space-shooter/?gh_user=alaslibress&fire_rate=30" alt="GitHub Space Shooter">
+</div>
+
 <h1 align="center"><b>Hello! , I'm Alejandro Pozo </b><img width="38px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+</div>
 <h3 align="center">Welcome to my GitHub profile! I'm a junior programmer who basically lives to fix problems you didn’t even know you had...</h3>
 
 <h2 align="center">⭐About me⭐</h2>
