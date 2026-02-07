@@ -31,7 +31,7 @@
 <h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,spring,postman,supabase" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,spring,postman,supabase,graphql" />
     </a>
   </p>
   <h3 align="center">Development environments</h3>
