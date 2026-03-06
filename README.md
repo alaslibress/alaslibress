@@ -22,7 +22,7 @@
   </p>
 
 <h2 align="center"><img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Technical skills <img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h2>
-<h3 align="center">Programming languajes</h3>
+<h3 align="center">Programming languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" />
