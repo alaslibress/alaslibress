@@ -1,64 +1,139 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hello! , I'm Alejandro Pozo </b><img width="38px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><b>Hi, I'm Alejandro Pozo</b> 👋</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a junior programmer who basically lives to fix problems you didn't even know you had...</h3>
+<h3 align="center">AI && Data Engineer | Backend & Systems | Building real-world solutions with data and intelligent systems</h3>
 
-<h2 align="center">⭐About me⭐</h2>
+---
 
-<p>➽ I’m currently a Cross-Platform Application Developer.🤔 <br>
-   ➽ I’m looking for challenging and interesting projects where I can make a meaningful contribution.☝🤓 <br>
-   ➽ I enjoy Back-end development, especially working with databases.📚 <br>
-   ➽ I’ll stop here—it’s starting to sound like a shopping list 🛒. What do you need to know?😁 Check below!👀⬇️</p>
+<h2 align="center">🧠 About Me</h2>
 
-<h2 align="center">⭐Contact to me⭐</h2>
 <p align="center">
-    <a href="mailto:alejandropozope@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/alejandro-pozo-pérez-583168331">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  </p>
+I am a software developer focused on <b>AI systems, backend engineering, and data-driven architectures</b>.<br><br>
 
-<h2 align="center"><img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Technical skills <img width ="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h2>
-<h3 align="center">Programming languages</h3>
+My main interest lies in building <b>intelligent systems that solve real problems</b> — from backend platforms to AI-powered workflows and agent-based architectures.<br><br>
+
+I enjoy working close to the <b>system level</b>: APIs, databases, performance, automation, and integrating AI into production-ready environments.<br><br>
+
+Currently, I am deeply focused on:
+<br>→ AI Agents & LLM-based systems  
+<br>→ Data pipelines & backend architecture  
+<br>→ Scalable microservices & cloud environments  
+<br>→ Applying AI to real-world products  
+
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" />
-    </a>
-  </p>
-<h3 align="center">Databases</h3>
+<b>RehabiAPP</b><br>
+Full ecosystem for medical rehabilitation combining backend systems, mobile app, AI-ready data architecture and gamification.<br>
+Built with Java (Spring Boot), PostgreSQL, React Native, Unity and AWS infrastructure.<br>
+Focus on security (AES-256, RBAC), compliance (GDPR), and scalable architecture.<br><br>
+
+<b>DataSocial</b><br>
+Graph-based social network using Neo4j for relationship modeling and intelligent recommendation systems.<br>
+Backend with Node.js + TypeScript, analytics with MongoDB, deployed with Docker.<br><br>
+
+<b>MatchFP (AI Project)</b><br>
+AI-powered platform to match students with companies using competency analysis (hard + soft skills).<br>
+Includes data processing, intelligent matching algorithms and applied AI for employability.
+</p>
+
+---
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,spring,postman,supabase,graphql" />
-    </a>
-  </p>
-  <h3 align="center">Development environments</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio" />
-    </a>
-  </p>
-  <h3 align="center">Version control</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" />
-    </a>
-  </p>
-  <h3 align="center">Web Technologies</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,aws" />
-    </a>
-  </p>
-  <h3 align="center">Others Technologies</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,docker,unity,gradle,maven,nodejs" />
-    </a>
-  </p>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,cs" />
+</p>
 
-  <h2 align="center"> 🎉Thanks for visiting! 🎉</h2>
+<h3 align="center">Backend & APIs</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Databases & Data</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+<p align="center">
++ Neo4j (graph data) · SQL design · data pipelines (Python)
+</p>
+
+<h3 align="center">AI & Automation</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agent%20Systems-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-9C27B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP%20Workflows-FF5722?style=flat-square"/>
+</p>
+
+<p align="center">
+AI Agents · LLM orchestration · Tool usage · Memory systems · Evaluation & iteration
+</p>
+<p align="center">
+⚡ Focused on real-world AI systems: not just prompts, but architecture, reliability and iteration.
+</p>
+
+<h3 align="center">DevOps & Systems</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,k8s" />
+</p>
+<p align="center">
++ CI/CD · scripting
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+---
+
+<h2 align="center">🧩 How I Work</h2>
+
+<p align="center">
+→ I build systems, not just features  
+<br>→ I focus on understanding problems deeply before coding  
+<br>→ I use AI as a tool, not as a crutch  
+<br>→ I iterate fast, test ideas, and refine based on results  
+<br>→ I care about clean, maintainable and scalable code  
+</p>
+
+---
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+<a href="mailto:alejandropozope@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/alejandro-pozo-pérez-583168331">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<h2 align="center">⚡ Final Note</h2>
+
+<p align="center">
+I am especially interested in <b>AI Engineering, Data Systems and Backend Architecture</b>.<br><br>
+
+If you're working on complex problems involving data, AI or scalable systems — we will probably get along.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
